@@ -1,3 +1,3 @@
-Terceira avaliação da disciplina de Aplicativos em Software Livre 
+Terceira Avaliação da disciplina de Aplicativos em Software Livre 
 Luiz Miguel Waldraff
 
